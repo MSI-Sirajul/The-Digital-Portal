@@ -1,0 +1,5 @@
+{
+  "name": "Digital Money Portal BD",
+  "description": "A web application to facilitate money transfers between different mobile banking operators in Bangladesh (bKash, Nagad, Rocket) by collecting transaction details and forwarding them to a service agent via Telegram.",
+  "requestFramePermissions": []
+}
